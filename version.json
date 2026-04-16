@@ -1,7 +1,7 @@
 {
   "app_configuration": {
     "current_version": 1.0,
-    "compulsory_update_for_ver_beloworequal": 0,
+    "compulsory_update_for_ver_beloworequal": 2,
     "obligatory_update_for_ver_beloworequal": 2,
     "update_link": "https://github.com/Dharmik-shetty/TubeTuneSettings/releases/latest/download/app-release.apk",
     "ad_settings": {
